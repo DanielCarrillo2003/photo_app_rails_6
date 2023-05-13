@@ -26,7 +26,9 @@ gem 'devise-bootstrap-views', '~> 1.0'
 gem 'twitter-bootstrap-rails'
 gem 'sendgrid-ruby'
 gem 'stripe'
-
+gem 'carrierwave'
+gem 'mini_magick'
+gem 'fog-aws'
 #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
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
